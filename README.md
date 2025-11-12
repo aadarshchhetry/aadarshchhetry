@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/chhetryadarsh" target="blank"><img src="https://img.shields.io/twitter/follow/chhetryadarsh?logo=twitter&style=for-the-badge" alt="chhetryadarsh" /></a> </p>
 
-- 🌱 I’m currently learning **Google Cloud Platform**
+🌱 I’m currently diving into **Spring AI**, experimenting with LangChain, OpenAI APIs, and AI-driven automation in Java.
 
 - 👯 I’m looking to collaborate on **Spring-boot**
 
